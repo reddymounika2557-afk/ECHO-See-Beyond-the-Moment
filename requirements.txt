@@ -1,0 +1,5 @@
+streamlit
+pillow
+ollama
+pyttsx3
+python-dotenv
